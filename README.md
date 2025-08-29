@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jignesh1001/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jignesh1001/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0974-reorder-data-in-log-files](https://github.com/jignesh1001/leetcode-solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/jignesh1001/leetcode-solutions/tree/master/1397-search-suggestions-system) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jignesh1001/leetcode-solutions/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jignesh1001/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
