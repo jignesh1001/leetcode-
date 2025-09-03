@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [2481-strictly-palindromic-number](https://github.com/jignesh1001/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jignesh1001/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jignesh1001/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jignesh1001/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2481-strictly-palindromic-number](https://github.com/jignesh1001/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/jignesh1001/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
