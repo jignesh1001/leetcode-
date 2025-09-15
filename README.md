@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jignesh1001/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/jignesh1001/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jignesh1001/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/jignesh1001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-reorder-data-in-log-files](https://github.com/jignesh1001/leetcode-solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0974-reorder-data-in-log-files](https://github.com/jignesh1001/leetcode-solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/jignesh1001/leetcode-solutions/tree/master/1397-search-suggestions-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/jignesh1001/leetcode-solutions/tree/master/1397-search-suggestions-system) |
 ## Math
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jignesh1001/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -75,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jignesh1001/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jignesh1001/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/jignesh1001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
@@ -109,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jignesh1001/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
