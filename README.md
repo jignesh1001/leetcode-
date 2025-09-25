@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jignesh1001/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jignesh1001/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jignesh1001/leetcode-solutions/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/jignesh1001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/jignesh1001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-reorder-data-in-log-files](https://github.com/jignesh1001/leetcode-solutions/tree/master/0974-reorder-data-in-log-files) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jignesh1001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/jignesh1001/leetcode-solutions/tree/master/1397-search-suggestions-system) |
@@ -171,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jignesh1001/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jignesh1001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jignesh1001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jignesh1001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
