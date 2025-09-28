@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jignesh1001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/jignesh1001/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0898-transpose-matrix](https://github.com/jignesh1001/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0974-reorder-data-in-log-files](https://github.com/jignesh1001/leetcode-solutions/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/jignesh1001/leetcode-solutions/tree/master/1397-search-suggestions-system) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jignesh1001/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jignesh1001/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jignesh1001/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/jignesh1001/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jignesh1001/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/jignesh1001/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Queue
 |  |
 | ------- |
